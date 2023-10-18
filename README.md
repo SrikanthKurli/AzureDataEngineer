@@ -1,33 +1,5 @@
 **Azure Data Engineer**
-<details>
-* Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies. 
-* Experience designing and building data platforms integrating disparate data sources.
-* Familiarity with Azure/ Cloud Fundamentals, Azure SQL Databases and Azure Data Bricks.
-* Skillfully configuring fault tolerance and retries in Azure Data Factory pipelines, adroitly handling transient errors and ensuring data reliability.
-* Setting up and managing real-time data streaming and processing using Azure Data Bricks.
-* Leveraging Azure Cosmos DB's integrated diagnostics to monitor and troubleshoot query performance and resource usage.
-* Deployed reports created report schedules and subscriptions. Managing and securing reports using SSRS.
-* Expertise in developing reports using SQL Server Reporting Service & Power BI.
-* Built ad-hoc reports using SQL Server Reporting Services (SSRS).
-* Design reporting formats to provide accurate information in a clear and concise manner using Microsoft Business Intelligence (SSIS, SSRS) & Power Bi, Microsoft Azure.
-* Designing and creating database schemas, tables, and views that align with Power BI reporting requirements.
-* Expertise in Azure Implementation: Data Lake, Databricks, ADF, Azure SOL
-* Advanced, hands-on experience in Spark architecture and implementation
-* Experience in working with Distributed Message Systems Like Kafka.
-* Experience working with Microsoft cloud’s ADL (Azure Data Lake), and ADS (Azure Data Storage).
-* Strong Experience in working with Databases like SQL Server, PostgreSQL and MySQL and proficiency in writing complex SQL queries.
-* Utilize Big Data, ETL, data processing or data warehousing technologies that process very large datasets and databases.
-* Involved in migration process of on-prem development into Microsoft Azure using Azure SQL PAAS, ADF, Azure Blob Storage, Azure Data Lakes. Implemented Azure Data Factory v2.
-* Implemented data migration methodologies and processes to transform on-premises data to cloud using tools like Azure Data Factory, Azure / Power BI Data Flows, Data Migration Service, SSIS.
-* Did various performance tuning techniques by using parameterized queries, Indexing, SQL server profiler, query optimization, IO stats, database engine tuning advisor, execution plans etc.
-* Defining and enforcing custom key rotation policies in Azure Synapse to adhere to specific industry regulatory requirements. Key rotation involves regularly updating cryptographic keys used for data encryption to enhance security and mitigate potential vulnerabilities.
-* Created and maintained complex T-SQL queries, Stored Procedures and Views using SQL commands such as Lead, Lag, CTEs, Recursive CTEs, Bulk Insert and Merge.
-* Providing technical support and troubleshooting assistance to Power BI users, resolving data-related issues and ensuring smooth functioning of reports and dashboards.
-* Implementing global distribution of data in Azure Cosmos DB to ensure low-latency access for users worldwide.
-* Utilizing Azure Key Vault's event grid integration to monitor real-time changes to keys and secrets, facilitating proactive response to key updates and data security events.
-* Designing and implementing deployment strategies for serverless applications and functions using Azure DevOps, enabling efficient serverless deployments.
-* Designing and implementing data masking and anonymization techniques in Azure Synapse, protecting sensitive data while preserving usability.
-</details>
+* Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies.
   
   **Techhnical Skills:** 
  +  _AZURE Cloud Technologies_: Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault
@@ -37,4 +9,33 @@
  +  _Other Skills_ : Data Analysis, git, Data Visualization, Business Analysis,Business Intelligence, Mercurial, TeamCity, Bitbucket, Octopus.
  +  _Reporting Tools_ : MS Office (Word/Excel/PowerPoint/ Visio/Outlook), SSRS, Power BI.
  +  _Databases_ : Microsoft SQL Server 2012,2016/2019, MySQL,PostgreSQL, MongoDB.
+
+**Professional Experience:**
++Deloitte, Canada
++Oct-2021 to Present
+
++I am currently working on a database migration project for a real estate client. In their existing system, data versions are managed by creating separate databases in SQL server, which can result in inconsistencies and reporting errors when updates are missed. Now they are looking to migrate to Azure to establish a unified data source.
+
+* Created DevOps pipelines to migrate code to higher environment for SQL, ADF and Databricks repositories.
+* Added data quality checks implemented in Databricks in Raw and Transform Layer
+* Designed generic Data quality framework to implement data consistency checks
+* Designed data model for major workstreams in the projects.
+* Worked in collaboration with business stakeholders and project leads for requirement gathering and design discussion.
+* Created end to end data pipelines in ADF to ingest data from csv/excel files (On Prem/ADLS)
+* Created reports using Power BI Desktop and deployed to Power BI Service to share with end users via Workspaces and Apps which implemented Row Level Security and User Group management.
+* Designed, developed, maintained and delivered additional new Power BI Dashboards and Reports with complex DAX query measures/columns, drill down/drill through/hyperlink options, dynamic slicing/dicing features.
+* Created Pipelines in ADF using Linked Services/Datasets/Pipeline/ to Extract, Transform, and load data from different sources like Azure SQL, Blob storage, Azure SQL Data warehouse, write-back tool and backwards.
+* Designed and developed the ETL process to load data from Oracle Database, Mainframe into Snowflake DWH.
+* Extract Transform and Load data from Sources Systems to Azure Data Storage services using a combination of Azure Data Factory, T-SQL, and U-SQL Azure Data Lake Analytics.
+* Data Ingestion to one or more Azure Services - (Azure Data Lake, Azure Storage, Azure SQL, Azure DW) and processing the data in in Azure Databricks.
+* Responsible for Interpreting data, analyze results using Data Analytics and statistical techniques and provide ongoing reports.
+* Creating complex stored procedures and objects by using SQL Server Advanced T-SQL.
+* Responsible for ETL jobs, created alerts. Created SSIS Packages using Pivot Transformation, Execute SQL Task, Data Flow Task, etc. to import data into the data warehouse.
+* Administered and modified the SSIS Package to transfer data from various locations using the FTP task. Created SSIS and used the task to import and export files.
+* Developed & optimized workflows for large amounts of structured and unstructured data, including integrating data from multiple sources, data lake architecture, business intelligence pipelines using various ETL (ELT) tools and data visualization tools such as Power BI.
+* Designing and implementing performant data ingestion pipelines from multiple sources using Azure Databricks
+* Successfully created database diagrams and physical models for the project. Performed cost benefit analysis of different ETL packages (SSIS) to determine the optimal process.
+* Extracted data from old on-premises databases (SQL Server and Oracle) into Azure SQL Data Warehouse using Azure Data Factory and SSIS. 
+
+
   

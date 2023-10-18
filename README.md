@@ -1,5 +1,5 @@
 # **Azure Data Engineer**
-* ## Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies.
+Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies.
   
 **Techhnical Skills:** 
  +  _AZURE Cloud Technologies_: Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault
@@ -11,10 +11,10 @@
  +  _Databases_ : Microsoft SQL Server 2012,2016/2019, MySQL,PostgreSQL, MongoDB.
 
 **Professional Experience:**
-+ Deloitte, Canada
-+ Oct-2021 to Present
+Deloitte, Canada
+Oct-2021 to Present
 
-+ I am currently working on a database migration project for a real estate client. In their existing system, data versions are managed by creating separate databases in SQL server, which can result in inconsistencies and reporting errors when updates are missed. Now they are looking to migrate to Azure to establish a unified data source.
+I am currently working on a database migration project for a real estate client. In their existing system, data versions are managed by creating separate databases in SQL server, which can result in inconsistencies and reporting errors when updates are missed. Now they are looking to migrate to Azure to establish a unified data source.
 
 * Created DevOps pipelines to migrate code to higher environment for SQL, ADF and Databricks repositories.
 * Added data quality checks implemented in Databricks in Raw and Transform Layer

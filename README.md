@@ -14,7 +14,7 @@ Around 5+ years of experience with experience in Microsoft Technologies like SQL
 Deloitte, Canada
 Oct-2021 to Present
 
-I am currently working on a database migration project for a real estate client. In their existing system, data versions are managed by creating separate databases in SQL server, which can result in inconsistencies and reporting errors when updates are missed. Now they are looking to migrate to Azure to establish a unified data source.
+I am currently working on a database migration project for a real estate client. In their existing system, data versions are managed by creating separate databases in SQL server, which can result in inconsistencies and reporting errors when updates are missed. Now we are migrating to Azure to establish a unified data source.
 
 * Created DevOps pipelines to migrate code to higher environment for SQL, ADF and Databricks repositories.
 * Added data quality checks implemented in Databricks in Raw and Transform Layer

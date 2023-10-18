@@ -1,5 +1,5 @@
 **Azure Data Engineer**
-
+<details>
 * Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies. 
 * Experience designing and building data platforms integrating disparate data sources.
 * Familiarity with Azure/ Cloud Fundamentals, Azure SQL Databases and Azure Data Bricks.
@@ -27,9 +27,10 @@
 * Utilizing Azure Key Vault's event grid integration to monitor real-time changes to keys and secrets, facilitating proactive response to key updates and data security events.
 * Designing and implementing deployment strategies for serverless applications and functions using Azure DevOps, enabling efficient serverless deployments.
 * Designing and implementing data masking and anonymization techniques in Azure Synapse, protecting sensitive data while preserving usability.
+</details>
   
   **Techhnical Skills:** 
- + _ AZURE Cloud Technologies _ : Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault
+ +  _AZURE Cloud Technologies_: Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault
  + _Languages_ : Python, T-SQL, Pig, PowerShell, Shell Script.
  +  _No SQL Databases_ : MongoDb
  +  _Business Intelligence Tools_ : Power BI, SSIS, SSRS, SSAS, ADF, Azure Databricks, Pentaho, Snowflake 

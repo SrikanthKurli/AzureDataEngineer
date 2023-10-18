@@ -1,17 +1,17 @@
-#**Azure Data Engineer**
-Professional Summary:
-•	Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies. 
-•	Experience designing and building data platforms integrating disparate data sources.
-•	Familiarity with Azure/ Cloud Fundamentals, Azure SQL Databases and Azure Data Bricks.
-•	Skillfully configuring fault tolerance and retries in Azure Data Factory pipelines, adroitly handling transient errors and ensuring data reliability.
-•	Setting up and managing real-time data streaming and processing using Azure Data Bricks.
-•	Leveraging Azure Cosmos DB's integrated diagnostics to monitor and troubleshoot query performance and resource usage.
-•	Deployed reports created report schedules and subscriptions. Managing and securing reports using SSRS.
-•	 Expertise in developing reports using SQL Server Reporting Service & Power BI.
-•	 Built ad-hoc reports using SQL Server Reporting Services (SSRS). 
-•	Design reporting formats to provide accurate information in a clear and concise manner using Microsoft Business Intelligence (SSIS, SSRS) & Power Bi, Microsoft Azure. 
-•	Designing and creating database schemas, tables, and views that align with Power BI reporting requirements.
-•	Expertise in Azure Implementation: Data Lake, Databricks, ADF, Azure SOL
+**Azure Data Engineer**
+**Professional Summary:**
+* Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies. 
+* Experience designing and building data platforms integrating disparate data sources.
+* Familiarity with Azure/ Cloud Fundamentals, Azure SQL Databases and Azure Data Bricks.
+* Skillfully configuring fault tolerance and retries in Azure Data Factory pipelines, adroitly handling transient errors and ensuring data reliability.
+* Setting up and managing real-time data streaming and processing using Azure Data Bricks.
+* Leveraging Azure Cosmos DB's integrated diagnostics to monitor and troubleshoot query performance and resource usage.
+* Deployed reports created report schedules and subscriptions. Managing and securing reports using SSRS.
+* Expertise in developing reports using SQL Server Reporting Service & Power BI.
+* Built ad-hoc reports using SQL Server Reporting Services (SSRS).
+* Design reporting formats to provide accurate information in a clear and concise manner using Microsoft Business Intelligence (SSIS, SSRS) & Power Bi, Microsoft Azure.
+* Designing and creating database schemas, tables, and views that align with Power BI reporting requirements.
+* Expertise in Azure Implementation: Data Lake, Databricks, ADF, Azure SOL
 •	Advanced, hands-on experience in Spark architecture and implementation
 •	Experience in working with Distributed Message Systems Like Kafka.
 •	Experience working with Microsoft cloud’s ADL (Azure Data Lake), and ADS (Azure Data Storage). 

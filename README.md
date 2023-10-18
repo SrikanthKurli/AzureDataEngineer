@@ -1,5 +1,5 @@
 **Azure Data Engineer**
-+**Professional Summary:**
+
 * Around 5+ years of experience with experience in Microsoft Technologies like SQL Server, SSIS, Azure Databricks, Azure Data Factory, Python, AWS Cloud and other technologies. 
 * Experience designing and building data platforms integrating disparate data sources.
 * Familiarity with Azure/ Cloud Fundamentals, Azure SQL Databases and Azure Data Bricks.
@@ -29,6 +29,8 @@
 * Designing and implementing data masking and anonymization techniques in Azure Synapse, protecting sensitive data while preserving usability.
   
   **Techhnical Skills:**
+  |first Header | Secod Header |
+  | ----------  | ------------ |
   | AZURE Cloud Technologies | Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault |
   | Languages | Python, T-SQL, Pig, PowerShell, Shell Script |
   | No SQL Databases | MongoDb |

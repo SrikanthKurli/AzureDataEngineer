@@ -28,12 +28,11 @@
 * Designing and implementing deployment strategies for serverless applications and functions using Azure DevOps, enabling efficient serverless deployments.
 * Designing and implementing data masking and anonymization techniques in Azure Synapse, protecting sensitive data while preserving usability.
   
-  **Techhnical Skills:**
-  |first Header | Secod Header |
-  | ----------  | ------------ |
-  | AZURE Cloud Technologies | Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault |
-  | Languages | Python, T-SQL, Pig, PowerShell, Shell Script |
-  | No SQL Databases | MongoDb |
-  | Business Intelligence Tools | Power BI, SSIS, SSRS, SSAS, ADF, Azure Databricks, Pentaho, Snowflake |
-  | Other Skills | Data Analysis, git, Data Visualization, Business Analysis,Business Intelligence, Mercurial, TeamCity, Bitbucket, Octopus |
+  **Techhnical Skills:** *
+
+ _ AZURE Cloud Technologies _ : Azure Data Factory, Azure Databricks, Azure Synapse, Azure Log Analytics, Azure SSIS, Azure SQL, Azure Devops, Azure Analysis Services, Azure Key Vault
+  _Languages_ : Python, T-SQL, Pig, PowerShell, Shell Script.
+  _No SQL Databases_ : MongoDb
+  _Business Intelligence Tools_ : Power BI, SSIS, SSRS, SSAS, ADF, Azure Databricks, Pentaho, Snowflake 
+  _Other Skills_ : Data Analysis, git, Data Visualization, Business Analysis,Business Intelligence, Mercurial, TeamCity, Bitbucket, Octopus 
   

@@ -27,13 +27,17 @@ Deloitte, Canada
 * Establish views on these tables at access layer, which then serve as the foundation for creating datasets in Power BI.
 * Responsible for creating Power BI monthly and daily reports, each tailored to specific stakeholders reporting needs.
 
-**Personal Projects**
+**Personal Projects:**
 
-<strong style="font-weight: 100;">*Tokyo olympic analytics* </strong>- This project involves creating a data pipeline for Tokyo Olympics data into Azure Data Lake,transformation using a Databricks notebook, and finally loading the tables to an Azure DW solution.The data in DW was then utilized to create an impressive Power BI dashboard.
+<strong style="font-weight: 10;">*Tokyo olympic analytics* </strong>- This project involves creating a data pipeline for Tokyo Olympics data into Azure Data Lake,transformation using a Databricks notebook, and finally loading the tables to an Azure DW solution.The data in DW was then utilized to create an impressive Power BI dashboard.
 
-<strong style="font-weight: 100;">*Migration Prioject* </strong>- An end to end solution by ingesting the tables from on-premise SQL Server database using ADF and then store the data in Azure Data Lake. Then Azure databricks is used to transform the RAW data to the most cleanest form of data and then using Azure Synapse Analytics to load the clean data for Microsoft Power BI.
+<strong style="font-weight: 10;">*Migration Prioject* </strong>- An end to end solution by ingesting the tables from on-premise SQL Server database using ADF and then store the data in Azure Data Lake. Then Azure databricks is used to transform the RAW data to the most cleanest form of data and then using Azure Synapse Analytics to load the clean data for Microsoft Power BI.
 
-<strong style="font-weight: 100;">*CI/CD*</strong> - Deploying Azure Databricks notebook from dev to prod and testing it.
+<strong style="font-weight: 10;">*CI/CD*</strong> - Deploying Azure Databricks notebook from dev to prod and testing it.
+
+**Education:** 
+
+* Bachelor of Technology in Communication Engineering (2014-2017), Loyola College, India
 
 
 

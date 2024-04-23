@@ -1,1 +1,2 @@
 chceking the connection
+chceking connection with terminal
